@@ -23,3 +23,4 @@
 - Add your Token in `bot.py`
 ### Done
 Your Code will now automatically deploy to the Cloud everytime you commit to the Repository
+- Open an Issue if you need help
